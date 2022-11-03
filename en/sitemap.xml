@@ -2,6 +2,17 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>https://hongfree9.github.io/first_post/</loc><lastmod>2022-11-03T20:13:18&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://hongfree9.github.io/</loc><lastmod>2022-11-03T20:13:18&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://hongfree9.github.io/zh-cn/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://hongfree9.github.io/"
+                    /></url><url>
+            <loc>https://hongfree9.github.io/posts/</loc><lastmod>2022-11-03T20:13:18&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://hongfree9.github.io/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
@@ -10,15 +21,6 @@
                     rel="alternate"
                     hreflang="en"
                     href="https://hongfree9.github.io/categories/"
-                    /></url><url>
-            <loc>https://hongfree9.github.io/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://hongfree9.github.io/zh-cn/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://hongfree9.github.io/"
                     /></url><url>
             <loc>https://hongfree9.github.io/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"

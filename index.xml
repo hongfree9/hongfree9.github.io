@@ -4,7 +4,15 @@
         <link>https://hongfree9.github.io/</link>
         <description>Hugo theme - LoveIt</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>1959919825@QQ.COM (HongFree)</managingEditor>
-            <webMaster>1959919825@QQ.COM (HongFree)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+            <webMaster>1959919825@QQ.COM (HongFree)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 03 Nov 2022 20:40:40 &#43;0800</lastBuildDate>
             <atom:link href="https://hongfree9.github.io/index.xml" rel="self" type="application/rss+xml" />
-        </channel>
+        <item>
+    <title>春风得意马蹄疾，一日看尽长安花</title>
+    <link>https://hongfree9.github.io/first_post/</link>
+    <pubDate>Thu, 03 Nov 2022 20:40:40 &#43;0800</pubDate>
+    <author>hongfree</author>
+    <guid>https://hongfree9.github.io/first_post/</guid>
+    <description><![CDATA[<p>这篇文章作为纪念第一次hugoblog的搭建成功！</p>]]></description>
+</item>
+</channel>
 </rss>
