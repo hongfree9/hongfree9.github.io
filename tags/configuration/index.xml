@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>configuration - 标签 - Mind</title>
+        <link>https://hongfree9.github.io/tags/configuration/</link>
+        <description>configuration - 标签 - Mind</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 05 Nov 2022 16:11:09 &#43;0800</lastBuildDate><atom:link href="https://hongfree9.github.io/tags/configuration/" rel="self" type="application/rss+xml" /><item>
+    <title>Hugo搭建博客</title>
+    <link>https://hongfree9.github.io/2022.11.05-establish-hugoblog/</link>
+    <pubDate>Sat, 05 Nov 2022 16:11:09 &#43;0800</pubDate>
+    <author>hongfree</author>
+    <guid>https://hongfree9.github.io/2022.11.05-establish-hugoblog/</guid>
+    <description><![CDATA[<p>Hugo搭建博客</p>]]></description>
+</item>
+</channel>
+</rss>
