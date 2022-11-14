@@ -39,8 +39,9 @@
 >例句 *when it comes to playing basketball, he is the best I know.*
 
 2.not only but also 不但而且
->例句 *she not only read the book but also remebered what she read.*
->例句 *Not only will i go to school but also i will go to library tomorrow.*
+
+>* 例句 *she not only read the book but also remembered what she read.*
+>* 例句 *Not only will i go to school but also i will go to library tomorrow.*
 
 3.there is no doubt that 这是没有质疑的
 >*There is no doubt that he is fascinated.*
