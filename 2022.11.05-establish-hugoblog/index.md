@@ -45,7 +45,7 @@ Hugo搭建博客
 >* 执行 git init将public文件夹变成 git 本地仓库
 >* 执行git add . 将文件夹所以文件放入暂存区
 >* 执行git commit -m "my hugoblog" 提交暂存区到本地仓库中
->* 执行git remote add origin <https://github.com/Hong-Free/hong-free.github.io.git> 添加远程版本库
+>* 执行git remote add origin <https://github.com/hongfree9/hongfree9.github.io.git> 添加远程版本库
 >* 执行git push -u origin master 将本地仓库代码推送到远程库
 
 你就可以获得一个属于自己的blog了
