@@ -15,23 +15,23 @@ Hugo搭建博客
 2.如果未安装 git ，也可以直接下载安装包文件，然后在HongFree_Blog\themes\Vno 中新建 Vno 文件夹（主题文件夹名），将安装包解压到此处即可。
 >一般主题都带有示例文件，例如我的这个主题
 
-![这个是我举的栗子](image/blog_1.png)
+![这个是我举的栗子](blog_1.png)
 
 >我们将 exampleSite 文件夹中的文件复制到博客根目录（HongFree_Blog文件夹）中，直接覆盖替换。
 
-![这个是我举的栗子](image/blog_2.png)
+![这个是我举的栗子](blog_2.png)
 
 >* 这里说明下，不同主题示例中的内容略有不同。在我们的博客站点中 myblog/content/post/xxx.md ,这里是存放你的文章的地方，我们这里把主题文章示例覆盖博客文章来预览。
 >* config.toml 为配置文件，后续我们可以进行站点配置（博客地址、构建配置、标题、导航栏等等）。
 
 3.启动hugo服务
 
->1. 在博客根目录（HongFree_Blog），cmd 执行 hugo server --theme=Vno --buildDrafts 来启动站点服务。
+>1. 在博客根目录（HongFree_Blog），cmd 执行 hugo server --theme=LoveIt --buildDrafts 来启动站点服务。
 >2. 在浏览器中打开地址 <http://localhost:1313/> 查看是否启动成功
 --theme : 指定主题
 --buildDrafts : 引入 content 中的草稿文件
 
-![这个是我举的栗子](image/blog_3.png)
+![这个是我举的栗子](blog_3.png)
 
 ## 部署到 GitHub
 
@@ -39,7 +39,7 @@ Hugo搭建博客
 
 >例如我的昵称是 Hong-Free，则输入 <http://hong-free.github.io>
 
-1.cmd 切换到根目录下（HongFree_Blog）, 运行 hugo --theme=Vno --baseUrl="http://hong-free.github.io" --buildDrafts
+1.cmd 切换到根目录下（HongFree_Blog）, 运行 hugo --theme=LoveIt --baseUrl="http://hongfree9.github.io" --buildDrafts
 2.会在博客根目录 myblog 生成 public 文件夹，里面就是编译好的静态页面文件。在public目录下：
 
 >* 执行 git init将public文件夹变成 git 本地仓库
@@ -49,7 +49,7 @@ Hugo搭建博客
 >* 执行git push -u origin master 将本地仓库代码推送到远程库
 
 你就可以获得一个属于自己的blog了
-![这个是我举的栗子](image/blog_4.png)
+![这个是我举的栗子](blog_4.png)
 
 ## 错误
 

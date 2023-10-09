@@ -1,38 +1,38 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>技术 - 标签 - Mind</title>
-        <link>https://hongfree9.github.io/tags/%E6%8A%80%E6%9C%AF/</link>
+        <link>http://hongfree9.github.io/tags/%E6%8A%80%E6%9C%AF/</link>
         <description>技术 - 标签 - Mind</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 18 Nov 2022 20:51:22 &#43;0800</lastBuildDate><atom:link href="https://hongfree9.github.io/tags/%E6%8A%80%E6%9C%AF/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 18 Nov 2022 20:51:22 &#43;0800</lastBuildDate><atom:link href="http://hongfree9.github.io/tags/%E6%8A%80%E6%9C%AF/" rel="self" type="application/rss+xml" /><item>
     <title>English Study day3</title>
-    <link>https://hongfree9.github.io/2022.11.18-english-study/</link>
+    <link>http://hongfree9.github.io/2022.11.18-english-study/</link>
     <pubDate>Fri, 18 Nov 2022 20:51:22 &#43;0800</pubDate>
     <author>hongfree</author>
-    <guid>https://hongfree9.github.io/2022.11.18-english-study/</guid>
+    <guid>http://hongfree9.github.io/2022.11.18-english-study/</guid>
     <description><![CDATA[英语学习]]></description>
 </item>
 <item>
     <title>English Study day2</title>
-    <link>https://hongfree9.github.io/2022.11.14-english-study/</link>
+    <link>http://hongfree9.github.io/2022.11.14-english-study/</link>
     <pubDate>Mon, 14 Nov 2022 21:02:27 &#43;0800</pubDate>
     <author>hongfree</author>
-    <guid>https://hongfree9.github.io/2022.11.14-english-study/</guid>
+    <guid>http://hongfree9.github.io/2022.11.14-english-study/</guid>
     <description><![CDATA[英语学习]]></description>
 </item>
 <item>
     <title>English Study day1</title>
-    <link>https://hongfree9.github.io/2022.11.07-english-study/</link>
+    <link>http://hongfree9.github.io/2022.11.07-english-study/</link>
     <pubDate>Mon, 07 Nov 2022 20:46:40 &#43;0800</pubDate>
     <author>hongfree</author>
-    <guid>https://hongfree9.github.io/2022.11.07-english-study/</guid>
+    <guid>http://hongfree9.github.io/2022.11.07-english-study/</guid>
     <description><![CDATA[英语学习]]></description>
 </item>
 <item>
     <title>Hugo搭建博客</title>
-    <link>https://hongfree9.github.io/2022.11.05-establish-hugoblog/</link>
+    <link>http://hongfree9.github.io/2022.11.05-establish-hugoblog/</link>
     <pubDate>Sat, 05 Nov 2022 16:11:09 &#43;0800</pubDate>
     <author>hongfree</author>
-    <guid>https://hongfree9.github.io/2022.11.05-establish-hugoblog/</guid>
+    <guid>http://hongfree9.github.io/2022.11.05-establish-hugoblog/</guid>
     <description><![CDATA[<p>Hugo搭建博客</p>]]></description>
 </item>
 </channel>
